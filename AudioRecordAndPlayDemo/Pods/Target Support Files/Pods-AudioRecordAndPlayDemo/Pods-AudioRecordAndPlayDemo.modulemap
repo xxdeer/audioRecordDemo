@@ -1,0 +1,6 @@
+framework module Pods_AudioRecordAndPlayDemo {
+  umbrella header "Pods-AudioRecordAndPlayDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
